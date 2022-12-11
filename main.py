@@ -247,4 +247,4 @@ async def mines(interaction: discord.Interaction, bomb_amount : int, bet_amount 
 
 
 
-client.run('discord bot token')
+client.run('MTA1MTYyNTM2MTc2ODcyMjU0Mw.GYilm3.OhqbgSm2wRzPwnMH7yWPUgjVOkR1PisoHZQwOw')
